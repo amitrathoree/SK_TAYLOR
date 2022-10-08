@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/amitrathoree/SK_TAYLOR/static/css/main.073c9b0a.css",
-    "main.js": "/amitrathoree/SK_TAYLOR/static/js/main.e1c6753f.js",
-    "static/media/logoe.jpg": "/amitrathoree/SK_TAYLOR/static/media/logoe.41bb5916153a9e035982.jpg",
-    "index.html": "/amitrathoree/SK_TAYLOR/index.html",
-    "main.073c9b0a.css.map": "/amitrathoree/SK_TAYLOR/static/css/main.073c9b0a.css.map",
-    "main.e1c6753f.js.map": "/amitrathoree/SK_TAYLOR/static/js/main.e1c6753f.js.map"
+    "main.css": "/SK_TAYLOR/static/css/main.073c9b0a.css",
+    "main.js": "/SK_TAYLOR/static/js/main.88c35286.js",
+    "static/media/logoe.jpg": "/SK_TAYLOR/static/media/logoe.41bb5916153a9e035982.jpg",
+    "index.html": "/SK_TAYLOR/index.html",
+    "main.073c9b0a.css.map": "/SK_TAYLOR/static/css/main.073c9b0a.css.map",
+    "main.88c35286.js.map": "/SK_TAYLOR/static/js/main.88c35286.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e1c6753f.js"
+    "static/js/main.88c35286.js"
   ]
 }
